@@ -1,6 +1,11 @@
 # Chess-Gull-Syzygy
 Chess uci engine with support Syzygy tablebassses
 
+An attempt to give functionality to this project at the moment abamdonado, correct some bad behaviors and an attempt to improve it.
+
+The changes are still public domain.
+First give their deserved recognition to the principal authors of the project Gull and Syzygy end tables:
+
 Gull Author Vadim Demichev "ThinkingALot", gull is PUBLIC DOMAIN
 https://chessprogramming.wikispaces.com/Vadim+Demichev
 Vadim Demichev on public domain:
